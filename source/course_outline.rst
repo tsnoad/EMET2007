@@ -9,15 +9,16 @@ contained in this course outline.
 
 
 Course Description 
-============================
+========================
 
-This course provides an introduction to econometric methods and its applications. Its theoretical
-foundation is linear regression theory, but the course emphasizes intuitive and conceptual
+This course provides an introduction to econometric methods and their applications. The main
+workhorse of applied econometrics is the linear regression model and the course will develop its
+theory and look at a wide range of applications.  The course emphasizes intuitive and conceptual
 understanding as well as hands on econometric analysis using modern computer software on data sets
 from economics and business. Students learn how to conduct empirical studies, as well as how to
-analyze and interpret results from other empirical works. TWe cover a broad range of topics,
+analyze and interpret results from other empirical works. We cover a broad range of topics,
 including: brief review of basic statistics; ordinary least squares estimation and its properties;
-choice of functional form; departures from standard OLS assumptions. 
+choice of functional form; departures from standard OLS assumptions; time series analysis. 
 
 This is a hand-on course with a focus on applications in economics as well as business. A standard
 statistical software will be used during computer sessions, no special programming skills are
@@ -29,19 +30,16 @@ Learning Outcome
 
 Upon successful completion of the requirements for this course, students will 
 
-* understand and appreciate the challenges of empirical modelling in economics and business
+* understand and appreciate the challenges of empirical modelling in economics and business;
 
-* have a broad knowledge of regression analysis relevant for analysing data used in economics and
-  business;
-
-* be able to interpret and critically evaluate the results of empirical analysis;
-
-* have obtained theoretical knowledge of the standard methods used in empirical analyses, including
-  statistical foundations, least squares estimation and its properties and hypotheses testing
-  
-* be a qualified user of econometric methods;
+* have a deep knowledge of regression analysis (including statistical foundations, underlying
+  assumptions, properties, extensions, limitations);
+ 
+* understand econometric methods relevant for analyzing data used in economics and business;
 
 * be able to use econometric software to conduct regression analysis on actual data sets;
+
+* be able to interpret and critically evaluate the results of empirical analysis;
 
 * be able to read and understand academic journal articles that make use of the concepts
   and methods that are introduced in the course;
@@ -56,15 +54,14 @@ Upon successful completion of the requirements for this course, students will
 Prerequisites
 ---------------
 
-To enroll in this course you must have completed EMET1001 Foundations of Economic and Financial
-Models and STAT1008 Quantitative Research Methods, or STAT2001 Introductory Mathematical Statistics,
-and ECON1101 Microeconomics 1. 
+To enroll in this course you must have completed EMET1001 *Foundations of Economic and Financial
+Models* and STAT1008 *Quantitative Research Methods*, or STAT2001 *Introductory Mathematical Statistics*,
+and ECON1101 *Microeconomics 1*. 
 
 
 
 Communication 
 ---------------
-
 
 .. important:: The official website for this course is 
    
@@ -111,15 +108,15 @@ For any *administrative* inquiries or problems (e.g., tutorial enrollment, exam 
 supplementary exams, etc.) you should contact Karissa Carkeet (School of Economics Course
 Administrator) or Finola Wijnberg (School of Economics School Administrator).
 
-=============== ============================== ============================== 
-Name            Karissa Carkeet                Finola Wijnberg                                
-=============== ============================== ============================== 
+=============== ==============================  ============================== 
+Name            Karissa Carkeet                 Finola Wijnberg                                
+=============== ==============================  ============================== 
 Job title       Course administrator            School administrator 
 Office          HW Arndt Building 25a           HW Arndt Building 25a
 Location        Room 1013                       Room 1014
 Hours           9:00-16:00                      9:00-16:00
-E-mail          karissa.carkeet\@anu.edu.au       finola.wijnberg\@anu.edu.au
-=============== ============================== ============================== 
+E-mail          karissa.carkeet\@anu.edu.au     finola.wijnberg\@anu.edu.au
+=============== ==============================  ============================== 
 
 Academic
 ^^^^^^^^^^^^
@@ -154,6 +151,8 @@ Location        R N Robertson Lecture theatre (46e)
 If you have persistent time conflicts with any of these class sessions, you should not be taking the
 course. Although content will be made available digitally (for example through audio recordings) you
 should not treat virtual attendance as a perfect substitute for physical attendance. 
+
+
 
 Tutorials
 -------------------
@@ -228,14 +227,14 @@ Assignment 1                       Thursday, week 6        10%
 
 Midterm exam                       Week 7                  25%
 
-Assignment 2                       Friday, week 13         10%
+Assignment 2                       Thursday, week 13       10%
 
 Final exam                         TBA                     45%
 
 Tute participation                 Throughout              10%
 ===============================    ==================      ==========
 
-Note, all assessment items are **compulsory**. If you miss any one item without approval by the
+Note, the midterm and final exams are **compulsory**. If you miss any exam without approval by the
 School or College, you will fail the entire course!
 
 
@@ -256,9 +255,11 @@ Research School of Economics. (Contact the Course Administrator for details.) Th
 submitted assignments must show your name, student number and the course name (EMET2007).
 Assignments missing any of this information will receive a mark of zero.  
 
-Assignments must be submitted by 2pm on the due date. If you have a university approved excuse for
-not handing in an assignment, then the value of the final exam will be increased by 10 percentage
-points to compensate for the missed work.  
+Assignments must be submitted by 2pm on the due date. Important notice: late assignments are not
+accepted under any circumstances. If you submit your assignment after 2pm on the due date and you do
+not have a university approved excuse, you will receive a mark of zero on that assignment.  If you
+have a university approved excuse for not handing in an assignment, then the value of the final exam
+will be increased by 10 percentage points to compensate for the missed work.  
 
 Further details about assignment submission will be given during lectures.
 
