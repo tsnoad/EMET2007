@@ -206,8 +206,7 @@ Week                Topic
 13                  Review, discussion of practice final
 ================    =======================================================
 
-Note that the indicated number of weeks given within parentheses are just estimates and may differ
-as we go along.   
+Note that the number of weeks per topic are merely estimates and may differ as we go along.   
 
 
 
@@ -254,10 +253,9 @@ Assignments missing any of this information will receive a mark of zero.
 
 Assignments must be submitted by 12pm (which means noon or midday) on the due date. Important
 notice: late assignments are not accepted under any circumstances. If you submit your assignment
-after 2pm on the due date and you do not have a university approved excuse, you will receive a mark
-of zero on that assignment.  If you have a university approved excuse for not handing in an
-assignment, then the value of the final exam will be increased by 10 percentage points to compensate
-for the missed work.  
+late and you do not have a university approved reason, you will receive a mark of zero on that
+assignment.  If you have a university approved reason for not handing in an assignment, then the
+value of the final exam will be increased by 10 percentage points to compensate for the missed work.  
 
 Further details about assignment submission will be given during lectures.
 
