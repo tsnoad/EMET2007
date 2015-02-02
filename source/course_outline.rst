@@ -8,7 +8,6 @@ will announce it during the lecture. Announcements in the lecture supersede any 
 contained in this course outline.
 
 
-
 Course Description 
 ========================
 
@@ -99,11 +98,8 @@ the tutorial in a "learning-by-doing manner".
 
 
 
-Staff
-------------------
-
-Administrative
-^^^^^^^^^^^^^^^^^^
+Administrative Staff
+---------------------
 
 For any *administrative* inquiries or problems (e.g., tutorial enrollment, exam scheduling,
 supplementary exams, etc.) you should contact Karissa Carkeet (School of Economics Course
@@ -119,20 +115,6 @@ Hours           9:00-16:00                      9:00-16:00
 E-mail          karissa.carkeet\@anu.edu.au     finola.wijnberg\@anu.edu.au
 =============== ==============================  ============================== 
 
-Academic
-^^^^^^^^^^^^
-
-If you have any *academic* inquiries or problems regarding the course, please don't hesitate to
-contact me:
-
-=============== ============================== 
-Name            Juergen Meinecke               
-=============== ============================== 
-Office          HW Arndt Building 25a          
-Location        Room 1022                     
-Hours           Tue 10:00-13:00                          
-E-mail          juergen.meinecke\@anu.edu.au   
-=============== ============================== 
 
 
 Lectures 
@@ -146,7 +128,7 @@ Day             Tuesday
 =============== ==========================================
 Type            Lecture         
 Time            14-16           
-Location        R N Robertson Lecture theatre (46e)     
+Location        R N Robertson Lecture theater (46e)     
 =============== ========================================== 
 
 If you have persistent time conflicts with any of these class sessions, you should not be taking the
@@ -163,9 +145,23 @@ In addition to lectures, you are expected to attend and actively participate in 
 develop and present solutions to selected exercises *in cooperation* with students. Solutions will
 not be made available in any other form.
 
-Allocation to tutorial groups will be made via the ETA (Electronic Tutorial Administration) system
-which you can find following this `link <http://eta.fec.anu.edu.au/>`_. 
+Allocation to tutorial groups will be made via the `ETA (Electronic Teaching Administrator)
+<http://eta.fec.anu.edu.au/>`_ .
 
+
+
+Consultation and Help Desk
+-----------------------------
+
+I have an open door policy for the course, which means that you can come by my office (Arndt 1022)
+any time you want to seek help. To increase your chances of finding me, I commit to being at my
+office on Tuesdays between 10am and 13pm. But again: any other day and time would be ok too (just
+that I may not always actually be in my office.) You can also always e-mail me if you want to set up
+individual consultation times with me.
+
+In addition, the tutors for EMET2007 will offer consultation. At the time of writing this course
+outline, I expect to set up one Help Desk that is run every week at the same time. The location and
+time have not been decided yet but will be announced early in the semester.
 
 Digital Lecture Delivery
 --------------------------
@@ -224,11 +220,11 @@ The following table summarizes the assessable items for the course.
 ===============================    ==================      ========== 
 Assessment Item                    Due date                Weight
 ===============================    ==================      ========== 
-Assignment 1                       Thursday, week 6        10%
+Assignment 1                       Tuesday, week 6         10%
 
 Midterm exam                       Week 7                  25%
 
-Assignment 2                       Thursday, week 13       10%
+Assignment 2                       Tuesday, week 13        10%
 
 Final exam                         TBA                     45%
 
@@ -256,11 +252,12 @@ Research School of Economics. (Contact the Course Administrator for details.) Th
 submitted assignments must show your name, student number and the course name (EMET2007).
 Assignments missing any of this information will receive a mark of zero.  
 
-Assignments must be submitted by 2pm on the due date. Important notice: late assignments are not
-accepted under any circumstances. If you submit your assignment after 2pm on the due date and you do
-not have a university approved excuse, you will receive a mark of zero on that assignment.  If you
-have a university approved excuse for not handing in an assignment, then the value of the final exam
-will be increased by 10 percentage points to compensate for the missed work.  
+Assignments must be submitted by 12pm (which means noon or midday) on the due date. Important
+notice: late assignments are not accepted under any circumstances. If you submit your assignment
+after 2pm on the due date and you do not have a university approved excuse, you will receive a mark
+of zero on that assignment.  If you have a university approved excuse for not handing in an
+assignment, then the value of the final exam will be increased by 10 percentage points to compensate
+for the missed work.  
 
 Further details about assignment submission will be given during lectures.
 
