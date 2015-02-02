@@ -23,6 +23,8 @@ Course Material
    :maxdepth: 1
 
    course_outline
+   stata
+   lectures
    exercises
    assignments
 
