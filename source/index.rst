@@ -3,21 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EMET2007's documentation!
-====================================
+=================================================
+Welcome to EMET2007 -- Econometric Methods!
+=================================================
 
-Contents:
+This website hosts important content for the ANU course EMET2008.
 
+Announcements
+---------------
+
+.. note:: 
+
+    * February 2: this website went live, more activity to follow early in the semester
+
+
+Course Material
+-----------------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    course_outline
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   exercises
+   assignments
 
