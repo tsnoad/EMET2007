@@ -7,7 +7,7 @@
 Welcome to EMET2007 -- Econometric Methods!
 =================================================
 
-This website hosts important content for the ANU course EMET2008.
+This website hosts important content for the ANU course EMET2007.
 
 Announcements
 ---------------
