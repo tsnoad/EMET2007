@@ -26,6 +26,6 @@ Course Material
    stata
    lectures
    computer_tutorial
-   problem_solving
+   problem_solving_tutorial
    assignments
 
