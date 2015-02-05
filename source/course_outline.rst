@@ -1,5 +1,5 @@
 Course Outline
-***************************
+*******************
 
 Read this entire course outline carefully! 
 
@@ -25,7 +25,7 @@ statistical software will be used during computer sessions, no special programmi
 required.
 
 
-Learning Outcome 
+Learning Outcomes
 ----------------------------
 
 Upon successful completion of the requirements for this course, students will 
@@ -93,13 +93,34 @@ Software
 
 The econometric software for this course is "Stata". Here's a quick wiki summary of what Stata is:
 <http://en.wikipedia.org/wiki/Stata>. From my own experience, Stata is an exhaustive,
-well-documented, powerful and user-friendly statistical software. We will get to know Stata during
+well-documented, powerful and user-friendly statistical software. You will get to know Stata during
 the tutorial in a "learning-by-doing manner". 
 
 
 
-Administrative Staff
+Staff
 ---------------------
+
+Academic
+^^^^^^^^^^^^
+
+If you have any *academic* inquiries or problems regarding the course, you should contact your
+regular tutor first. They should be able to handle most of the problems you might have. If you need
+to contact me or the Head Tutor, here are our contact details.
+
+=============== ==============================  ============================== 
+Name            Juergen Meinecke                Luis Uzeda Garcia                                
+=============== ==============================  ============================== 
+Job title       Instructor                      Head tutor 
+Office          HW Arndt Building 25a           HW Arndt Building 25a
+Location        Room 1022                       Room 2019
+Hours           Open door                       TBA
+E-mail          juergen.meinecke\@anu.edu.au    luis.uzeda\@anu.edu.au
+=============== ==============================  ============================== 
+
+
+Administrative
+^^^^^^^^^^^^^^^^
 
 For any *administrative* inquiries or problems (e.g., tutorial enrollment, exam scheduling,
 supplementary exams, etc.) you should contact Karissa Carkeet (School of Economics Course
@@ -117,36 +138,64 @@ E-mail          karissa.carkeet\@anu.edu.au     finola.wijnberg\@anu.edu.au
 
 
 
-Lectures 
------------
+Class Meeting Times
+---------------------
 
-There will be a two hour lecture each week. You are encouraged to attend all lectures. Lectures will
-be held in the following venues at the following times:
+There will be a two-hour lecture, a one-hour problem solving tutorial and a one-hour computer
+tutorial per week. (The tutorials start in week 2.)
+
+Lectures 
+^^^^^^^^^^
+
+Although you do not have to attend lectures, I encourage you to do so. It is nicer for me to see
+some students and it is also more social.
+
+Lectures will be held in the following venue at the following time:
 
 =============== ========================================== 
 Day             Tuesday         
 =============== ==========================================
-Type            Lecture         
 Time            14-16           
 Location        R N Robertson Lecture theater (46e)     
 =============== ========================================== 
 
-If you have persistent time conflicts with any of these class sessions, you should not be taking the
-course. Although content will be made available digitally (for example through audio recordings) you
-should not treat virtual attendance as a perfect substitute for physical attendance. 
 
 
+Problem Solving Tutorial
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Tutorials
--------------------
+A large-group tutorial, the problem solving tutorial is an integral part of this course. Each week
+I will post a set of problem solving exercises that go hand in hand with the lecture material.  We
+will work through the exercises together during this tutorial. 
 
-In addition to lectures, you are expected to attend and actively participate in weekly tutorials
-(weeks 2 through 13). Tutes are an integral part of this course. During each tute, your tutor will
-develop and present solutions to selected exercises *in cooperation* with students. Solutions will
-not be made available in any other form.
+=============== ========================================== 
+Day             Wednesday         
+=============== ==========================================
+Time            15-16           
+Location        R N Robertson Lecture theater (46e)     
+=============== ========================================== 
 
-Allocation to tutorial groups will be made via the `ETA (Electronic Teaching Administrator)
+
+Computer Tutorials
+^^^^^^^^^^^^^^^^^^^^
+
+The computer tutorials are another important part of this course. These tutorials are held in small
+groups. Your tutor will develop and present solutions to selected exercises *in cooperation* with
+you and your classmates. Solutions will not be made available in any other form.
+
+Allocation to computer tutorial groups will be made via the `ETA (Electronic Teaching Administrator)
 <http://eta.fec.anu.edu.au/>`_ .
+
+
+
+Digital Lecture Delivery
+--------------------------
+
+I will record (both audio and visual) the lecture and the problem solving tutorial and post the
+resulting files on Wattle (the recordings are the only course content that I post there). 
+
+The computer tutorial sessions will not be available on Wattle (they are group learning
+sessions and as such do not lend themselves to audio recordings).
 
 
 
@@ -163,21 +212,13 @@ In addition, the tutors for EMET2007 will offer consultation. At the time of wri
 outline, I expect to set up one Help Desk that is run every week at the same time. The location and
 time have not been decided yet but will be announced early in the semester.
 
-Digital Lecture Delivery
---------------------------
-
-Audio recordings of the Tuesday lecture will be made available on Wattle. 
-
-The tutorial sessions will not be made available on Wattle (they are group learning sessions and as
-such do not lend themselves to audio recordings).
-
 
 Workload
 --------------------------
 
 University study requires at least as much time and effort as a full--time job. You are expected to
-attend all lectures and tutorials (3 hours per week). You should expect to put in at least 7 hours
-per week of your own study time for this course in addition to the 3 hours of lectures and
+attend all lectures and tutorials (4 hours per week). You should expect to put in at least 6 hours
+per week of your own study time for this course in addition to the 4 hours of lectures and
 tutorials. 
 
 
@@ -227,7 +268,7 @@ Assignment 2                       Tuesday, week 13        10%
 
 Final exam                         TBA                     45%
 
-Tute participation                 Throughout              10%
+Tutorial participation             Throughout              10%
 ===============================    ==================      ==========
 
 Note, the midterm and final exams are **compulsory**. If you miss any exam without approval by the
@@ -285,8 +326,9 @@ Tutorial Participation
 ----------------------------------
 
 Your participation is an essential part in the overall learning experience (both for you as well as
-your classmates!) in the course. I will evaluate you on your participation during the tutorial
-sessions. Feel free to participate and contribute to these sessions. Do not be afraid to give
+your classmates!) in the course. I will evaluate you on your participation during the computer
+tutorial sessions. (You will not be assessed for your participation in the problem solving
+tutorial.) Feel free to participate and contribute to these sessions. Do not be afraid to give
 `wrong` answers; as long as you are constructively engaged, there is no such thing as a wrong
 answer. 
 
