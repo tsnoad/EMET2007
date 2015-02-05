@@ -1,5 +1,5 @@
-Exercises
-***************
+Computer Tutorials
+********************
 
 .. note:: 
    

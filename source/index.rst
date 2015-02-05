@@ -26,5 +26,6 @@ Course Material
    stata
    lectures
    exercises
+   problem_solving
    assignments
 
