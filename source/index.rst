@@ -25,7 +25,7 @@ Course Material
    course_outline
    stata
    lectures
-   exercises
+   computer_tutorial
    problem_solving
    assignments
 
