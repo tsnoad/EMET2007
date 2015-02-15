@@ -179,12 +179,23 @@ Location        R N Robertson Lecture theater (46e)
 Computer Tutorials
 ^^^^^^^^^^^^^^^^^^^^
 
-The computer tutorials are another important part of this course. These tutorials are held in small
-groups. Your tutor will develop and present solutions to selected exercises *in cooperation* with
-you and your classmates. Solutions will not be made available in any other form.
+Luis and I, together with Zain Virani and Daniel Payten will offer a number of computer tutorials
+each week. The computer tutorials are another important part of this course. These tutorials are
+held in small groups, some details here: 
+
+=============== ========================================== 
+Days            Wednesday, Thursday or Friday         
+=============== ==========================================
+Time            varies
+Location        COP GO32
+=============== ========================================== 
+
+Your tutor will develop and present solutions to selected exercises *in
+cooperation* with you and your classmates. Solutions will not be made available in any other form.
 
 Allocation to computer tutorial groups will be made via the `ETA (Electronic Teaching Administrator)
-<http://eta.fec.anu.edu.au/>`_ .
+<http://eta.fec.anu.edu.au/>`_. You have to attend the tutorial for which you enroll using the ETA
+system.
 
 
 
