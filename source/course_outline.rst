@@ -114,7 +114,7 @@ Name            Juergen Meinecke                Luis Uzeda Garcia
 Job title       Instructor                      Head tutor 
 Office          HW Arndt Building 25a           HW Arndt Building 25a
 Location        Room 1022                       Room 2019
-Hours           Open door                       TBA
+Hours           Open door                       Wed 11-13
 E-mail          juergen.meinecke\@anu.edu.au    luis.uzeda\@anu.edu.au
 =============== ==============================  ============================== 
 
@@ -132,7 +132,7 @@ Name            Karissa Carkeet                 Finola Wijnberg
 Job title       Course administrator            School administrator 
 Office          HW Arndt Building 25a           HW Arndt Building 25a
 Location        Room 1013                       Room 1014
-Hours           9:00-16:00                      9:00-16:00
+Hours           Weekdays 9-16                   Weekdays 9-16
 E-mail          karissa.carkeet\@anu.edu.au     finola.wijnberg\@anu.edu.au
 =============== ==============================  ============================== 
 
