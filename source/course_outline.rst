@@ -81,9 +81,9 @@ matters. They are NOT to be used for instructional purposes.
 Textbook 
 ----------------------------
 
-The textbook for the course is *Introduction to Econometrics* (third edition, 2012) by Stock and
-Watson. Chiefly library has several copies of the textbook. I strongly recommend that you buy a
-copy of the book as I base the lecture and practice sessions on it. 
+The textbook for the course is *Introduction to Econometrics* (updated third edition, 2015) by Stock
+and Watson. Chiefly library has several copies of the textbook. I strongly recommend that you buy
+a copy of the book as I base the lecture and practice sessions on it. 
 
 Other excellent textbooks include *A Guide to Modern Econometrics* by Verbeek and *Introductory
 Econometrics: A Modern Approach* 5ed, by Wooldridge.
